@@ -153,7 +153,7 @@ public class DoublyLinkedList {
             this.data = data;
         }
 
-        // ovverride the toString for easy print 
+        // ovverride the toString for easy print
         @Override
         public String toString() {
             return data.toString();
